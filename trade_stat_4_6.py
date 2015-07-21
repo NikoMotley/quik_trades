@@ -5,8 +5,6 @@
 
 
 import math
-import openpyxl
-import operator
 import datetime
 import bs4
 
